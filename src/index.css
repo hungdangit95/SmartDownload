@@ -35,7 +35,9 @@ li {
   width: 80%;
   margin: 0 auto;
 }
-
+.navbar a{
+  color: #fff;
+}
 .nav-links a {
   color: #fff;
 }
